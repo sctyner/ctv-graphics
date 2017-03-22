@@ -1,7 +1,5 @@
----
-title: "CRAN Task View: Graphic Displays & Dynamic Graphics & Graphic Devices & Visualization"
-output: github_document
----
+CRAN Task View: Graphic Displays & Dynamic Graphics & Graphic Devices & Visualization
+-------------------------------------------------------------------------------------
 
 |                 |                                              
 |-----------------|--------------------------------------------  

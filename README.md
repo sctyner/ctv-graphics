@@ -1,12 +1,24 @@
 CRAN Task View: Graphic Displays & Dynamic Graphics & Graphic Devices & Visualization
 -------------------------------------------------------------------------------------
 
-|                 |                                              
-|-----------------|--------------------------------------------  
-| **Maintainer:** | Nicholas Lewin-Koh                           
-| **Contact:**    | nikko at hailmail.net                        
-| **Version:**    | 2015-01-07                                   
-| **URL:**        | <https://CRAN.R-project.org/view=Graphics>   
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Maintainer:</strong>
+Nicholas Lewin-Koh</td>
+<td align="left"><strong>Contact:</strong>
+nikko at hailmail.net</td>
+<td align="left"><strong>Version:</strong>
+2015-01-07</td>
+<td align="left"><strong>URL:</strong>
+<a href="https://CRAN.R-project.org/view=Graphics"> https://CRAN.R-project.org/view=Graphics </a></td>
+</tr>
+</tbody>
+</table>
 
 R is rich with facilities for creating and developing interesting graphics. Base R contains functionality for many plot types including coplots, mosaic plots, biplots, and the list goes on. There are devices such as postscript, png, jpeg and pdf for outputting graphics as well as device drivers for all platforms running R. [lattice](http://cran.rstudio.com/web/packages/lattice/index.html) and grid are supplied with R's recommended packages and are included in every binary distribution. [lattice](http://cran.rstudio.com/web/packages/lattice/index.html) is an R implementation of William Cleveland's trellis graphics, while grid defines a much more flexible graphics environment than the base R graphics.
 
